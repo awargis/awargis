@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @awargis
+- 👋 Hi, I’m Aditya Wargis
 - 👀 I’m interested in learning security system and new technology
 - 🌱 I’m currently learning to spy android phone
 - 💞️ I’m looking to collaborate on spy android
